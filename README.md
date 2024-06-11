@@ -2,7 +2,7 @@
 
 
 ### ER Relationship: 
-![Database Schema](images/sql database schema.png)
+![Database Schema](images/sqldatabaseschema.png)
 
 
 
