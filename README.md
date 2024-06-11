@@ -1,8 +1,8 @@
 # SQL Project for Mobile Manufacturer Analysis
 
 
-
-![]()
+### ER Relationship: 
+![Database Schema](images/sql database schema.png)
 
 
 
