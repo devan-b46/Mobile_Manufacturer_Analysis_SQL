@@ -41,7 +41,7 @@ The first four store entries for the respective elements and Fact_Transactions s
  
  
 
-### **Solutions to Queries** 
+### **Queries for above questions** 
 **1. List all the states in which we have customers who have bought cellphones from 2005 till today.**
 ```sql
 SELECT DISTINCT	L.State,L.Country, Date
