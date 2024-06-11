@@ -1,5 +1,8 @@
-
 # <p align="center">SQL Project for Mobile Manufacturer Analysis</p>
+
+
+<p align="center"><img src=images/logo.jpg height="300"></p>
+
 ## Business Scenario
 
 The database “Cellphones Information” contains details on cell phone sales or transactions.
@@ -11,9 +14,9 @@ The first four store entries for the respective elements and Fact_Transactions s
 **Tools Used:** Excel, SSMS (SQL Server Management Studio)
 
 
-### ER Relationship: 
-![Database Schema](images/sqldatabaseschema.png)
+### ER Relationship:
 
+<img src=images/sqldatabaseschema.png height="450">
 
 
 
