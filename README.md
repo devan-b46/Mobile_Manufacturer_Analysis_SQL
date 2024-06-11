@@ -1,4 +1,14 @@
-# SQL Project for Mobile Manufacturer Analysis
+
+# <p align="center">SQL Project for Mobile Manufacturer Analysis</p>
+## Business Scenario
+
+The database “Cellphones Information” contains details on cell phone sales or transactions.
+Detailes stored are: Dim_manufacturer, Dim_model, Dim_customer, Dim_Location and Fact_Transactions.
+The first four store entries for the respective elements and Fact_Transactions stores all the information about sales of specific cellphones
+
+---
+
+**Tools Used:** Excel, SSMS (SQL Server Management Studio)
 
 
 ### ER Relationship: 
@@ -10,8 +20,8 @@
 
 
 
-
-Questions I Wanted To Answer From the Dataset:
+---
+### Questions I Wanted To Answer From the Dataset:
 
 1. List all the states in which we have customers who have bought cellphones from 2005 till today.
 2. What state in the US is buying the most 'Samsung' cell phones?
